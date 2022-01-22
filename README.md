@@ -106,3 +106,4 @@ Pentru efectuarea exercitiilor de laborator este nevoie de:
 ## Français
 
 ### Intro
+Un développeur Web doit comprendre en profondeur de nombreux concepts de divers sous-domaines de l'industrie informatique, tels que : le fonctionnement de l'ordinateur, l'administration de serveurs Web/Linux/Windows, la mise en réseau et, enfin et surtout, les langages de programmation utiles pour le développement d'applications (HTML, CSS, Javascript, Java, PHP, Nodejs, Python, etc.).
