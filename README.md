@@ -8,6 +8,7 @@
 - [Romana](#romana)
   - [Introducere](#introducere)
   - [Exercitii](#exercitii)
+- [Français](#introduction)
 
 ## English
 
@@ -101,3 +102,7 @@ Pentru efectuarea exercitiilor de laborator este nevoie de:
   - [Atom](https://atom.io)
   - [Brackets](http://brackets.io/)
 - [Nodejs](https://nodejs.org/en/) instalat pe calculator
+
+## Français
+
+### Intro
